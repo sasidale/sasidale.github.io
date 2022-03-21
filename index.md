@@ -55,7 +55,7 @@
             <th><input type="text" id="ftax" name="TextBox2" readonly></th>
         <tr>
         <tr>
-            <th>Non Food TA 7.55%</th>
+            <th>Non Food Tax 7.55%</th>
             <th><input type="text" id="nftax" name="TextBox2" readonly></th>
         <tr>
         <tr>
