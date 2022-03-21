@@ -67,9 +67,8 @@
             <th><input type="text" id="total" name="TextBox3" readonly></th>
         </tr>
     </table>
-
-
-    <script type="text/javascript">
+</body>
+	<script type="text/javascript">
            function add_number() {
                 console.log("inside function");
                 var fsale = parseInt(document.getElementById("fsale").value);
@@ -101,6 +100,4 @@
                 document.getElementById("total").value = total.toFixed(2);;
             }
     </script>
-
-</body>
 </html>
